@@ -216,7 +216,7 @@ rect {
     transform-origin: center;
 }
 
-h1, p , li {
+h1, p , li, footer {
     color: white;
 }
 
